@@ -1,6 +1,7 @@
 # TopCoupPlotter
 ***Input***
 1.  A .txt file: this file contains the ntuples to run over. It is formatted as label \t path/to/the/ntuple. The first position has to be reserved to the signal sample
+
 ***Output***
 1. A folder containing the all the plots requested in .pdf format.
 
