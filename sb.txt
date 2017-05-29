@@ -1,0 +1,12 @@
+ttZ		/afs/atlass01.physik.uni-bonn.de/user/oncel/Downloads/v9T3/ttZ_v9T3.root
+ttbar		/afs/atlass01.physik.uni-bonn.de/user/oncel/Downloads/v9T3/ttbar_3l_v9T3.root
+4l		/afs/atlass01.physik.uni-bonn.de/user/oncel/Downloads/v9T3/4l_v9T3.root
+Zll		/afs/atlass01.physik.uni-bonn.de/user/oncel/Downloads/v9T3/Z+jets_MG_v9T3.root
+3lv		/afs/atlass01.physik.uni-bonn.de/user/oncel/Downloads/v9T3/3lv_v9T3.root
+tZ 		/afs/atlass01.physik.uni-bonn.de/user/oncel/Downloads/v9T3/tZ_v9T3.root
+2l2q		/afs/atlass01.physik.uni-bonn.de/user/oncel/Downloads/v9T3/2l2q_v9T3.root
+2l2v 		/afs/atlass01.physik.uni-bonn.de/user/oncel/Downloads/v9T3/2l2v_v9T3.root
+ttH		/afs/atlass01.physik.uni-bonn.de/user/oncel/Downloads/v9T3/ttH_v9T3.root
+ttW		/afs/atlass01.physik.uni-bonn.de/user/oncel/Downloads/v9T3/ttW_v9T3.root
+VVV		/afs/atlass01.physik.uni-bonn.de/user/oncel/Downloads/v9T3/VVV_v9T3.root
+Others		/afs/atlass01.physik.uni-bonn.de/user/oncel/Downloads/v9T3/Others_v9T3.root
